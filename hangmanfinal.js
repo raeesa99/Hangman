@@ -90,6 +90,7 @@
 // //i need to correlate the guesses to every time maxGuesses decreases by 1
 
 // let words = ["mouse", "clean", "style", "fleets", "teepee", "close", "achoo", "doubt", "shelf"]
+//a
 
 generateWord = (words) => {
     let random = Math.floor(Math.random() * words.length);
